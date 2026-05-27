@@ -54,6 +54,7 @@
     <value name="Book">51</value>
     <value name="Error">250</value>
     <value name="Init">255</value>
+    <value name="Alduin">247</value>
   </enum>
   <enum name="PacketAction" type="byte">
     <comment>
